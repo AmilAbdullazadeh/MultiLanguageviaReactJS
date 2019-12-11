@@ -12,19 +12,6 @@ function App() {
 
   return (
     <div className="App">
-      {/*<nav*/}
-      {/*  style={{ width: "100%", padding: "2rem, 0", backgroundColor: "gray" }}*/}
-      {/*>*/}
-      {/*  <button onClick={() => handleClick("en")}> English </button>*/}
-      {/*  <button onClick={() => handleClick("aze")}> Azerbaijan </button>*/}
-      {/*  <button onClick={() => handleClick("ru")}> Russia </button>*/}
-      {/*</nav>*/}
-
-      {/*<header className="App-header">*/}
-      {/*  <p> {t("Thanks.1")} </p>*/}
-      {/*  <p> {t("Why.1")} </p>*/}
-      {/*</header>*/}
-
       <div className="container mt-4">
         <nav className="navbar navbar-expand-lg navbar-dark bg-darkred rounded">
           <a className="navbar-brand" href="#">
