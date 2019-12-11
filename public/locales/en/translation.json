@@ -1,0 +1,16 @@
+{
+  "Language": {
+    "1": "Azerbaijan",
+    "2": "English",
+    "3": "Russian"
+  },
+  "Header": {
+    "1": "Card"
+  },
+  "Title": {
+    "1": "Card title"
+  },
+  "Content": {
+    "1": "Card content via darkly"
+  }
+}
